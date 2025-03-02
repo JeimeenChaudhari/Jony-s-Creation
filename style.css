@@ -241,3 +241,11 @@ footer {
         display: none; /* For mobile, would need JS to toggle */
     }
 }
+.profile-photo {
+    width: 40px;  /* Adjust the size as needed */
+    height: 40px;
+    border-radius: 50%; /* Makes it a circle */
+    object-fit: cover;
+    margin-right: 10px; /* Space between name and photo */
+    vertical-align: middle;
+}
