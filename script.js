@@ -29,6 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
+    
     // Add hover effect to project cards
     const projectCards = document.querySelectorAll('.project-card');
     
